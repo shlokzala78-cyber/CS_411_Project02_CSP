@@ -35,7 +35,7 @@
 ---
 
 ## Section 3: Video Presentation & Project Structure
-- **Video Presentation Link:** [Provide an accessible link to your 5–7 minute video presentation]
+- **Video Presentation Link:** https://drive.google.com/file/d/1UgDYLmj8hlAtHrTysRwszM1llpwhRnDW/view?usp=sharing
 - **Project Directory Structure:** Plain Python modules in the project root with app.py as the entry point and data/ for the inputs and generated outputs.
 
 ---
